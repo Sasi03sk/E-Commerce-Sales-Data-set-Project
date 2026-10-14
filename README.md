@@ -459,11 +459,3 @@ This project is part of my Data Analyst portfolio and demonstrates my practical 
 If you find this project useful, feel free to ⭐ **star this repository**.
 
 ---
-
-### 📬 Connect With Me
-
-**GitHub:** [Add your GitHub profile link]
-
-**LinkedIn:** [Add your LinkedIn profile link]
-
-**Email:** [Add your professional email]
